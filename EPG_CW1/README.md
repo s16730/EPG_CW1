@@ -1,0 +1,1 @@
+W Main.java linia 4 powinna być zakomentowana
