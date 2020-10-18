@@ -1,1 +1,1 @@
-W Main.java powinno wyświetlać "hello world"
+Main.java powinno wyświetlać "hello world"
